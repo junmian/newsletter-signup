@@ -21,13 +21,13 @@ Whenever someone fills out the form, the data is sent to my Mailchimp list, crea
 
 ## Screenshots
 **Landing Page**             
-<img src="https://gitlab.com/junmian/newsletter-signup/-/raw/main/app-screenshot.png" width="250" height="155" alt="App Screenshot" title="Landing Page">
+<img src="https://raw.githubusercontent.com/junmian/newsletter-signup/main/app-screenshot.png" width="250" height="155" alt="App Screenshot" title="Landing Page">
 
 **Mobile View**<br>
-<img src="https://gitlab.com/junmian/newsletter-signup/-/raw/main/app-mobile-view.png" width="180" height="155" alt="Mobile View" title="Mobile View">
+<img src="https://raw.githubusercontent.com/junmian/newsletter-signup/main/app-mobile-view.png" width="180" height="155" alt="Mobile View" title="Mobile View">
 
 **Success Page**<br>
-<img src="https://gitlab.com/junmian/newsletter-signup/-/raw/main/app-success-page.png" width="250" height="155" alt="Success Page" title="Success Page">
+<img src="https://raw.githubusercontent.com/junmian/newsletter-signup/main/app-success-page.png" width="250" height="155" alt="Success Page" title="Success Page">
 
 **Failure Page**<br>
-<img src="https://gitlab.com/junmian/newsletter-signup/-/raw/main/app-failure-page.png" width="250" height="155" alt="Failure Page" title="Failure Page">
+<img src="https://raw.githubusercontent.com/junmian/newsletter-signup/main/app-failure-page.png" width="250" height="155" alt="Failure Page" title="Failure Page">
